@@ -1,0 +1,19 @@
+.oddclass{
+    background-color: #a83131;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blueid{
+    color: #1b1bc5;
+    font-size: 36px;
+}
+
+#sizeid{
+    font-size:24px;
+}
+
+#lightgreen{
+    background-color: rgb(104, 211, 77);
+    font-size:24px;
+    font-weight: bold;
+}
